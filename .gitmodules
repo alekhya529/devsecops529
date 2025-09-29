@@ -1,3 +1,0 @@
-[submodule "mydockerfile"]
-	path = mydockerfile
-	url = https://github.com/alekhya529/devsecops529.git
